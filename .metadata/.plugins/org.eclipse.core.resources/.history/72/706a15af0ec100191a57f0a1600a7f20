@@ -1,0 +1,18 @@
+
+public class CompileTimeAndRunTime {
+
+	public static void main(String[] args) {
+		
+		//Email em =  null;
+		//java.lang.NullPointerException
+		Email em = new Email();
+		em.generateAndSend();
+		
+		
+		System.out.println(args[0]);
+		
+		
+
+	}
+
+}

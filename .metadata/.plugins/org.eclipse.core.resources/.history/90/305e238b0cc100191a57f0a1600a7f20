@@ -1,0 +1,16 @@
+
+public class Email {
+
+	
+	public void generateAndSend()
+	{
+		
+	}
+	
+	
+	public static void main(String[] args) {
+		
+
+	}
+
+}

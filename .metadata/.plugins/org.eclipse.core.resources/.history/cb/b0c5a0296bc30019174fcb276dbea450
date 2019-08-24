@@ -1,0 +1,26 @@
+
+public class VariablesDemo {
+
+/*
+ * a)Local variable-created at beginning of method execution and destroyed at end of method
+ * execution
+ * 
+ * visible only in the method or block where it is destroyed
+ * 
+ * b)instance/member variable-created when 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ */
+	
+	public static void main(String[] args) {
+		
+
+	}
+
+}

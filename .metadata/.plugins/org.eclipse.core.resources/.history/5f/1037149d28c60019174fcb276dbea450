@@ -1,0 +1,18 @@
+
+public class PassByValue {
+
+	
+	/*
+	 * java is always pass by value which means it copies the arguments(but not pass the original variables)
+	 * There are 2 types of variables u can pass to the methods,primitives and reference variables(both are pass by value)
+	 * 
+	 * 
+	 * 
+	 * 
+	 * 
+	 */
+	public static void main(String[] args) {
+		
+	}
+
+}

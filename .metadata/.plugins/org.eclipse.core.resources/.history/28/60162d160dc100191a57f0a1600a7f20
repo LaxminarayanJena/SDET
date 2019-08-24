@@ -1,0 +1,10 @@
+
+public class CompileTimeAndRunTime {
+
+	public static void main(String[] args) {
+		Email em = new Email();
+		em.generateAndSend();
+
+	}
+
+}
