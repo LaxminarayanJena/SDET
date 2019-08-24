@@ -1,0 +1,17 @@
+package Collections;
+
+public class SetDemo {
+	//position of duplicate character
+	//total no of duplicate character
+
+	public static void main(String[] args) {
+		String s="heloo world";
+		char[] chararray=s.toCharArray();
+		Set set = new HashSet();
+		
+		
+		
+
+	}
+
+}

@@ -1,0 +1,43 @@
+package Collections;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class ArrayListDemo {
+	
+	/*ArrayList is an implementation of java.util.list.interface
+	 * arraylist is backed by an array
+	 * it grows dynamically when we add more elements
+	 * provides various methods to work with elements
+	 * array is fixed size and can be multidimensional-2d 3d
+	
+	 */
+
+	public static void main(String[] args) {
+	/*	ArrayList<String> list=new ArrayList<String>();//Creating arraylist    
+	      list.add("Ravi");//Adding object in arraylist    
+	      list.add("Vijay");    
+	      list.add("Ravi");    
+	      list.add("Ajay");    
+	      //Invoking arraylist object   
+	      System.out.println(list);  
+	      
+	      */
+		
+		String[] allcodes= {"001","002","003","004","005","006"};
+		String[] assignedcodes= {"004","005"};
+		
+		
+		
+
+	}
+	static String[] getUnsassignedCodes(String[] allcodes,String[] assignedcodes)
+	{
+		List list1= new ArrayList();
+		List list2= new ArrayList();
+		list1.removeAll(list2);
+		return assignedcodes;
+		
+	}
+
+}

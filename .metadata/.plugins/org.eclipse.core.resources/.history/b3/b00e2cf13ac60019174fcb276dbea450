@@ -1,0 +1,19 @@
+package Collections;
+
+public class ArrayListDemo {
+	
+	/*ArrayList is an implementation of java.util.list.interface
+	 * arraylist is backed by an array
+	 * 
+	 * 
+	 * 
+	 * 
+	 * 
+	 */
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

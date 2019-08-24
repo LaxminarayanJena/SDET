@@ -1,0 +1,11 @@
+package Collections;
+
+public class MapDemo {
+
+	//whenever we need to store key value pair u should use map
+	public static void main(String[] args) {
+		
+
+	}
+
+}

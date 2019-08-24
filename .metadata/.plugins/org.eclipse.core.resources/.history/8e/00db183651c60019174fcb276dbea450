@@ -1,0 +1,10 @@
+package Collections;
+
+public class StackDemo {
+
+	public static void main(String[] args) {
+		//stack class represnt last in first out
+
+	}
+
+}

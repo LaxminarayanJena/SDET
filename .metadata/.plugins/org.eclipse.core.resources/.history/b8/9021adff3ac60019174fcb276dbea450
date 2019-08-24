@@ -1,0 +1,23 @@
+package Collections;
+
+public class ArrayListDemo {
+	
+	/*ArrayList is an implementation of java.util.list.interface
+	 * arraylist is backed by an array
+	 * it grows dynamically when we add more elements
+	 * provides various methods to work with elements
+	 * array is fixed size and can be multidimensional-2d 3d
+	 * 
+	 * 
+	 * 
+	 * 
+	 * 
+	 * 
+	 */
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}
