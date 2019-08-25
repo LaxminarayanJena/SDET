@@ -1,2 +1,339 @@
 2019-08-17 21:35:01,298 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
 2019-08-20 21:47:17,686 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-08-24 15:54:15,171 [Worker-330: Creating project "Selenium"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.Jena:Selenium:0.0.1-SNAPSHOT @ /Eclipse/SDET/Selenium/pom.xml.
+2019-08-24 15:54:15,338 [Worker-330: Creating project "Selenium"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Selenium/src/main/java
+2019-08-24 15:54:15,340 [Worker-330: Creating project "Selenium"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Selenium/src/main/resources
+2019-08-24 15:54:15,340 [Worker-330: Creating project "Selenium"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Selenium/src/test/java
+2019-08-24 15:54:15,340 [Worker-330: Creating project "Selenium"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Selenium/src/test/resources
+2019-08-24 15:54:17,041 [Worker-334: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 15:54:17,048 [Worker-334: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 15:54:17,050 [Worker-334: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 15:54:17,051 [Worker-334: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 15:56:13,964 [Worker-337: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 15:56:13,966 [Worker-337: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 15:56:13,968 [Worker-337: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 15:56:13,970 [Worker-337: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 15:57:51,650 [Worker-333: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 15:57:51,651 [Worker-333: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 15:57:51,651 [Worker-333: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 15:57:51,652 [Worker-333: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 15:57:57,460 [Worker-338: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 15:57:57,461 [Worker-338: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 15:57:57,462 [Worker-338: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 15:57:57,462 [Worker-338: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 19:14:40,162 [Worker-339: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.Jena:Selenium:0.0.1-SNAPSHOT @ /Eclipse/SDET/Selenium/pom.xml.
+2019-08-24 19:14:41,922 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-java/4.0.0-alpha-2/selenium-java-4.0.0-alpha-2.pom
+2019-08-24 19:14:42,619 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-java/4.0.0-alpha-2/selenium-java-4.0.0-alpha-2.pom
+2019-08-24 19:14:42,778 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-chrome-driver/4.0.0-alpha-2/selenium-chrome-driver-4.0.0-alpha-2.pom
+2019-08-24 19:14:42,927 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-chrome-driver/4.0.0-alpha-2/selenium-chrome-driver-4.0.0-alpha-2.pom
+2019-08-24 19:14:43,080 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-chromium-driver/4.0.0-alpha-2/selenium-chromium-driver-4.0.0-alpha-2.pom
+2019-08-24 19:14:43,263 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-chromium-driver/4.0.0-alpha-2/selenium-chromium-driver-4.0.0-alpha-2.pom
+2019-08-24 19:14:43,430 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-remote-driver/4.0.0-alpha-2/selenium-remote-driver-4.0.0-alpha-2.pom
+2019-08-24 19:14:43,602 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-remote-driver/4.0.0-alpha-2/selenium-remote-driver-4.0.0-alpha-2.pom
+2019-08-24 19:14:44,455 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/4.0.0-alpha-2/selenium-api-4.0.0-alpha-2.pom
+2019-08-24 19:14:44,625 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/4.0.0-alpha-2/selenium-api-4.0.0-alpha-2.pom
+2019-08-24 19:14:44,815 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/opentracing/contrib/opentracing-tracerresolver/0.1.7/opentracing-tracerresolver-0.1.7.pom
+2019-08-24 19:14:45,530 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/opentracing/contrib/opentracing-tracerresolver/0.1.7/opentracing-tracerresolver-0.1.7.pom
+2019-08-24 19:14:45,693 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/opentracing/contrib/opentracing-tracerresolver-parent/0.1.7/opentracing-tracerresolver-parent-0.1.7.pom
+2019-08-24 19:14:46,320 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/opentracing/contrib/opentracing-tracerresolver-parent/0.1.7/opentracing-tracerresolver-parent-0.1.7.pom
+2019-08-24 19:14:46,490 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/opentracing/opentracing-api/0.33.0/opentracing-api-0.33.0.pom
+2019-08-24 19:14:46,653 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/opentracing/opentracing-api/0.33.0/opentracing-api-0.33.0.pom
+2019-08-24 19:14:47,551 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/opentracing/parent/0.33.0/parent-0.33.0.pom
+2019-08-24 19:14:49,011 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/opentracing/parent/0.33.0/parent-0.33.0.pom
+2019-08-24 19:14:49,223 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/opentracing/opentracing-util/0.33.0/opentracing-util-0.33.0.pom
+2019-08-24 19:14:49,943 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/opentracing/opentracing-util/0.33.0/opentracing-util-0.33.0.pom
+2019-08-24 19:14:50,812 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/opentracing/opentracing-noop/0.33.0/opentracing-noop-0.33.0.pom
+2019-08-24 19:14:50,984 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/opentracing/opentracing-noop/0.33.0/opentracing-noop-0.33.0.pom
+2019-08-24 19:14:51,146 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-edgehtml-driver/4.0.0-alpha-2/selenium-edgehtml-driver-4.0.0-alpha-2.pom
+2019-08-24 19:14:51,467 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-edgehtml-driver/4.0.0-alpha-2/selenium-edgehtml-driver-4.0.0-alpha-2.pom
+2019-08-24 19:14:51,637 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-edge-driver/4.0.0-alpha-2/selenium-edge-driver-4.0.0-alpha-2.pom
+2019-08-24 19:14:51,968 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-edge-driver/4.0.0-alpha-2/selenium-edge-driver-4.0.0-alpha-2.pom
+2019-08-24 19:14:53,062 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-firefox-xpi-driver/4.0.0-alpha-2/selenium-firefox-xpi-driver-4.0.0-alpha-2.pom
+2019-08-24 19:14:53,219 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-firefox-xpi-driver/4.0.0-alpha-2/selenium-firefox-xpi-driver-4.0.0-alpha-2.pom
+2019-08-24 19:14:53,380 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-firefox-driver/4.0.0-alpha-2/selenium-firefox-driver-4.0.0-alpha-2.pom
+2019-08-24 19:14:53,689 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-firefox-driver/4.0.0-alpha-2/selenium-firefox-driver-4.0.0-alpha-2.pom
+2019-08-24 19:14:54,811 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-ie-driver/4.0.0-alpha-2/selenium-ie-driver-4.0.0-alpha-2.pom
+2019-08-24 19:14:54,995 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-ie-driver/4.0.0-alpha-2/selenium-ie-driver-4.0.0-alpha-2.pom
+2019-08-24 19:14:55,170 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-opera-driver/4.0.0-alpha-2/selenium-opera-driver-4.0.0-alpha-2.pom
+2019-08-24 19:14:55,500 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-opera-driver/4.0.0-alpha-2/selenium-opera-driver-4.0.0-alpha-2.pom
+2019-08-24 19:14:56,119 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-safari-driver/4.0.0-alpha-2/selenium-safari-driver-4.0.0-alpha-2.pom
+2019-08-24 19:14:56,291 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-safari-driver/4.0.0-alpha-2/selenium-safari-driver-4.0.0-alpha-2.pom
+2019-08-24 19:14:56,461 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-support/4.0.0-alpha-2/selenium-support-4.0.0-alpha-2.pom
+2019-08-24 19:14:56,784 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-support/4.0.0-alpha-2/selenium-support-4.0.0-alpha-2.pom
+2019-08-24 19:14:56,967 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-java/4.0.0-alpha-2/selenium-java-4.0.0-alpha-2.jar
+2019-08-24 19:14:57,133 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-java/4.0.0-alpha-2/selenium-java-4.0.0-alpha-2.jar
+2019-08-24 19:14:57,280 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-chrome-driver/4.0.0-alpha-2/selenium-chrome-driver-4.0.0-alpha-2.jar
+2019-08-24 19:14:57,774 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-chrome-driver/4.0.0-alpha-2/selenium-chrome-driver-4.0.0-alpha-2.jar
+2019-08-24 19:14:57,944 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-chromium-driver/4.0.0-alpha-2/selenium-chromium-driver-4.0.0-alpha-2.jar
+2019-08-24 19:14:58,756 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-chromium-driver/4.0.0-alpha-2/selenium-chromium-driver-4.0.0-alpha-2.jar
+2019-08-24 19:14:58,924 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-edgehtml-driver/4.0.0-alpha-2/selenium-edgehtml-driver-4.0.0-alpha-2.jar
+2019-08-24 19:14:59,226 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-edgehtml-driver/4.0.0-alpha-2/selenium-edgehtml-driver-4.0.0-alpha-2.jar
+2019-08-24 19:14:59,374 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-edge-driver/4.0.0-alpha-2/selenium-edge-driver-4.0.0-alpha-2.jar
+2019-08-24 19:15:00,668 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-edge-driver/4.0.0-alpha-2/selenium-edge-driver-4.0.0-alpha-2.jar
+2019-08-24 19:15:00,834 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-firefox-xpi-driver/4.0.0-alpha-2/selenium-firefox-xpi-driver-4.0.0-alpha-2.jar
+2019-08-24 19:15:18,844 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-firefox-xpi-driver/4.0.0-alpha-2/selenium-firefox-xpi-driver-4.0.0-alpha-2.jar
+2019-08-24 19:15:19,005 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-firefox-driver/4.0.0-alpha-2/selenium-firefox-driver-4.0.0-alpha-2.jar
+2019-08-24 19:15:19,441 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-firefox-driver/4.0.0-alpha-2/selenium-firefox-driver-4.0.0-alpha-2.jar
+2019-08-24 19:15:19,601 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-ie-driver/4.0.0-alpha-2/selenium-ie-driver-4.0.0-alpha-2.jar
+2019-08-24 19:15:19,752 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-ie-driver/4.0.0-alpha-2/selenium-ie-driver-4.0.0-alpha-2.jar
+2019-08-24 19:15:19,917 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-remote-driver/4.0.0-alpha-2/selenium-remote-driver-4.0.0-alpha-2.jar
+2019-08-24 19:15:21,975 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-remote-driver/4.0.0-alpha-2/selenium-remote-driver-4.0.0-alpha-2.jar
+2019-08-24 19:15:22,134 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/4.0.0-alpha-2/selenium-api-4.0.0-alpha-2.jar
+2019-08-24 19:15:22,605 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/4.0.0-alpha-2/selenium-api-4.0.0-alpha-2.jar
+2019-08-24 19:15:22,758 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/opentracing/contrib/opentracing-tracerresolver/0.1.7/opentracing-tracerresolver-0.1.7.jar
+2019-08-24 19:15:22,908 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/opentracing/contrib/opentracing-tracerresolver/0.1.7/opentracing-tracerresolver-0.1.7.jar
+2019-08-24 19:15:23,052 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/opentracing/opentracing-api/0.33.0/opentracing-api-0.33.0.jar
+2019-08-24 19:15:23,216 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/opentracing/opentracing-api/0.33.0/opentracing-api-0.33.0.jar
+2019-08-24 19:15:23,367 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/opentracing/opentracing-util/0.33.0/opentracing-util-0.33.0.jar
+2019-08-24 19:15:23,519 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/opentracing/opentracing-util/0.33.0/opentracing-util-0.33.0.jar
+2019-08-24 19:15:23,690 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/opentracing/opentracing-noop/0.33.0/opentracing-noop-0.33.0.jar
+2019-08-24 19:15:23,842 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/opentracing/opentracing-noop/0.33.0/opentracing-noop-0.33.0.jar
+2019-08-24 19:15:24,014 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-opera-driver/4.0.0-alpha-2/selenium-opera-driver-4.0.0-alpha-2.jar
+2019-08-24 19:15:24,183 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-opera-driver/4.0.0-alpha-2/selenium-opera-driver-4.0.0-alpha-2.jar
+2019-08-24 19:15:24,510 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-safari-driver/4.0.0-alpha-2/selenium-safari-driver-4.0.0-alpha-2.jar
+2019-08-24 19:15:24,988 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-safari-driver/4.0.0-alpha-2/selenium-safari-driver-4.0.0-alpha-2.jar
+2019-08-24 19:15:25,138 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-support/4.0.0-alpha-2/selenium-support-4.0.0-alpha-2.jar
+2019-08-24 19:15:26,397 [Worker-339: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-support/4.0.0-alpha-2/selenium-support-4.0.0-alpha-2.jar
+2019-08-24 19:15:26,743 [Worker-339: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 19:15:26,744 [Worker-339: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 19:15:26,746 [Worker-339: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 19:15:26,747 [Worker-339: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 19:15:27,834 [Worker-339: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 19:15:27,834 [Worker-339: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 19:15:27,836 [Worker-339: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 19:15:27,836 [Worker-339: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 19:15:28,465 [Worker-334: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-java/4.0.0-alpha-2/selenium-java-4.0.0-alpha-2-sources.jar
+2019-08-24 19:15:28,611 [Worker-334: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-java/4.0.0-alpha-2/selenium-java-4.0.0-alpha-2-sources.jar
+2019-08-24 19:15:28,623 [Worker-334: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.seleniumhq.selenium:selenium-java:4.0.0-alpha-2
+2019-08-24 19:15:28,769 [Worker-334: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-chrome-driver/4.0.0-alpha-2/selenium-chrome-driver-4.0.0-alpha-2-sources.jar
+2019-08-24 19:15:28,916 [Worker-334: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-chrome-driver/4.0.0-alpha-2/selenium-chrome-driver-4.0.0-alpha-2-sources.jar
+2019-08-24 19:15:28,926 [Worker-334: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.seleniumhq.selenium:selenium-chrome-driver:4.0.0-alpha-2
+2019-08-24 19:15:29,071 [Worker-334: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-chromium-driver/4.0.0-alpha-2/selenium-chromium-driver-4.0.0-alpha-2-sources.jar
+2019-08-24 19:15:29,241 [Worker-334: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-chromium-driver/4.0.0-alpha-2/selenium-chromium-driver-4.0.0-alpha-2-sources.jar
+2019-08-24 19:15:29,251 [Worker-334: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.seleniumhq.selenium:selenium-chromium-driver:4.0.0-alpha-2
+2019-08-24 19:15:29,396 [Worker-334: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-edgehtml-driver/4.0.0-alpha-2/selenium-edgehtml-driver-4.0.0-alpha-2-sources.jar
+2019-08-24 19:15:29,540 [Worker-334: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-edgehtml-driver/4.0.0-alpha-2/selenium-edgehtml-driver-4.0.0-alpha-2-sources.jar
+2019-08-24 19:15:29,549 [Worker-334: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.seleniumhq.selenium:selenium-edgehtml-driver:4.0.0-alpha-2
+2019-08-24 19:15:29,696 [Worker-334: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-edge-driver/4.0.0-alpha-2/selenium-edge-driver-4.0.0-alpha-2-sources.jar
+2019-08-24 19:15:29,845 [Worker-334: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-edge-driver/4.0.0-alpha-2/selenium-edge-driver-4.0.0-alpha-2-sources.jar
+2019-08-24 19:15:29,856 [Worker-334: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.seleniumhq.selenium:selenium-edge-driver:4.0.0-alpha-2
+2019-08-24 19:15:30,003 [Worker-334: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-firefox-xpi-driver/4.0.0-alpha-2/selenium-firefox-xpi-driver-4.0.0-alpha-2-sources.jar
+2019-08-24 19:15:30,152 [Worker-334: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-firefox-xpi-driver/4.0.0-alpha-2/selenium-firefox-xpi-driver-4.0.0-alpha-2-sources.jar
+2019-08-24 19:15:30,164 [Worker-334: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.seleniumhq.selenium:selenium-firefox-xpi-driver:4.0.0-alpha-2
+2019-08-24 19:15:30,311 [Worker-334: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-firefox-driver/4.0.0-alpha-2/selenium-firefox-driver-4.0.0-alpha-2-sources.jar
+2019-08-24 19:15:30,607 [Worker-334: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-firefox-driver/4.0.0-alpha-2/selenium-firefox-driver-4.0.0-alpha-2-sources.jar
+2019-08-24 19:15:30,615 [Worker-334: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.seleniumhq.selenium:selenium-firefox-driver:4.0.0-alpha-2
+2019-08-24 19:15:30,761 [Worker-334: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-ie-driver/4.0.0-alpha-2/selenium-ie-driver-4.0.0-alpha-2-sources.jar
+2019-08-24 19:15:30,917 [Worker-334: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-ie-driver/4.0.0-alpha-2/selenium-ie-driver-4.0.0-alpha-2-sources.jar
+2019-08-24 19:15:30,935 [Worker-334: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.seleniumhq.selenium:selenium-ie-driver:4.0.0-alpha-2
+2019-08-24 19:15:31,089 [Worker-334: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-remote-driver/4.0.0-alpha-2/selenium-remote-driver-4.0.0-alpha-2-sources.jar
+2019-08-24 19:15:31,932 [Worker-334: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-remote-driver/4.0.0-alpha-2/selenium-remote-driver-4.0.0-alpha-2-sources.jar
+2019-08-24 19:15:31,943 [Worker-334: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.seleniumhq.selenium:selenium-remote-driver:4.0.0-alpha-2
+2019-08-24 19:15:32,103 [Worker-334: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/4.0.0-alpha-2/selenium-api-4.0.0-alpha-2-sources.jar
+2019-08-24 19:15:32,706 [Worker-334: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/4.0.0-alpha-2/selenium-api-4.0.0-alpha-2-sources.jar
+2019-08-24 19:15:32,715 [Worker-334: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.seleniumhq.selenium:selenium-api:4.0.0-alpha-2
+2019-08-24 19:15:32,867 [Worker-334: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/opentracing/contrib/opentracing-tracerresolver/0.1.7/opentracing-tracerresolver-0.1.7-sources.jar
+2019-08-24 19:15:33,014 [Worker-334: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/opentracing/contrib/opentracing-tracerresolver/0.1.7/opentracing-tracerresolver-0.1.7-sources.jar
+2019-08-24 19:15:33,025 [Worker-334: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.opentracing.contrib:opentracing-tracerresolver:0.1.7
+2019-08-24 19:15:33,185 [Worker-334: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/opentracing/opentracing-api/0.33.0/opentracing-api-0.33.0-sources.jar
+2019-08-24 19:15:33,350 [Worker-334: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/opentracing/opentracing-api/0.33.0/opentracing-api-0.33.0-sources.jar
+2019-08-24 19:15:33,361 [Worker-334: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.opentracing:opentracing-api:0.33.0
+2019-08-24 19:15:33,548 [Worker-334: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/opentracing/opentracing-util/0.33.0/opentracing-util-0.33.0-sources.jar
+2019-08-24 19:15:33,695 [Worker-334: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/opentracing/opentracing-util/0.33.0/opentracing-util-0.33.0-sources.jar
+2019-08-24 19:15:33,704 [Worker-334: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.opentracing:opentracing-util:0.33.0
+2019-08-24 19:15:33,852 [Worker-334: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/opentracing/opentracing-noop/0.33.0/opentracing-noop-0.33.0-sources.jar
+2019-08-24 19:15:34,002 [Worker-334: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/opentracing/opentracing-noop/0.33.0/opentracing-noop-0.33.0-sources.jar
+2019-08-24 19:15:34,013 [Worker-334: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.opentracing:opentracing-noop:0.33.0
+2019-08-24 19:15:34,161 [Worker-334: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-opera-driver/4.0.0-alpha-2/selenium-opera-driver-4.0.0-alpha-2-sources.jar
+2019-08-24 19:15:34,311 [Worker-334: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-opera-driver/4.0.0-alpha-2/selenium-opera-driver-4.0.0-alpha-2-sources.jar
+2019-08-24 19:15:34,323 [Worker-334: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.seleniumhq.selenium:selenium-opera-driver:4.0.0-alpha-2
+2019-08-24 19:15:34,471 [Worker-334: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-safari-driver/4.0.0-alpha-2/selenium-safari-driver-4.0.0-alpha-2-sources.jar
+2019-08-24 19:15:34,632 [Worker-334: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-safari-driver/4.0.0-alpha-2/selenium-safari-driver-4.0.0-alpha-2-sources.jar
+2019-08-24 19:15:34,643 [Worker-334: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.seleniumhq.selenium:selenium-safari-driver:4.0.0-alpha-2
+2019-08-24 19:15:34,793 [Worker-334: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-support/4.0.0-alpha-2/selenium-support-4.0.0-alpha-2-sources.jar
+2019-08-24 19:15:35,022 [Worker-334: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-support/4.0.0-alpha-2/selenium-support-4.0.0-alpha-2-sources.jar
+2019-08-24 19:15:35,038 [Worker-334: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.seleniumhq.selenium:selenium-support:4.0.0-alpha-2
+2019-08-24 19:15:35,188 [Worker-334: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 19:15:35,188 [Worker-334: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 19:15:35,189 [Worker-334: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 19:15:35,190 [Worker-334: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 19:19:47,053 [Worker-334: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 19:19:47,054 [Worker-334: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 19:19:47,056 [Worker-334: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 19:19:47,057 [Worker-334: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 19:20:20,172 [Worker-334: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 19:20:20,173 [Worker-334: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 19:20:20,174 [Worker-334: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 19:20:20,175 [Worker-334: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 19:20:28,193 [Worker-341: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 19:20:28,194 [Worker-341: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 19:20:28,195 [Worker-341: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 19:20:28,196 [Worker-341: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 19:37:53,815 [Worker-352: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 19:37:53,816 [Worker-352: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 19:37:53,817 [Worker-352: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 19:37:53,817 [Worker-352: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 19:38:04,662 [Worker-334: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 19:38:04,663 [Worker-334: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 19:38:04,664 [Worker-334: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 19:38:04,665 [Worker-334: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 19:38:14,805 [Worker-339: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 19:38:14,805 [Worker-339: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 19:38:14,806 [Worker-339: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 19:38:14,807 [Worker-339: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 19:44:43,719 [Worker-355: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 19:44:43,719 [Worker-355: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 19:44:43,721 [Worker-355: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 19:44:43,721 [Worker-355: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 19:44:52,531 [Worker-352: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 19:44:52,532 [Worker-352: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 19:44:52,532 [Worker-352: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 19:44:52,533 [Worker-352: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 19:47:32,723 [Worker-357: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 19:47:32,724 [Worker-357: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 19:47:32,725 [Worker-357: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 19:47:32,726 [Worker-357: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 20:17:12,491 [Worker-352: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 20:17:12,492 [Worker-352: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 20:17:12,493 [Worker-352: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 20:17:12,493 [Worker-352: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 20:26:02,806 [Worker-365: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 20:26:02,806 [Worker-365: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 20:26:02,807 [Worker-365: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 20:26:02,808 [Worker-365: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 20:26:08,189 [Worker-366: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 20:26:08,189 [Worker-366: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 20:26:08,190 [Worker-366: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 20:26:08,190 [Worker-366: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 20:26:21,965 [Worker-369: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 20:26:21,966 [Worker-369: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 20:26:21,967 [Worker-369: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 20:26:21,968 [Worker-369: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 20:29:22,676 [Worker-369: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 20:29:22,677 [Worker-369: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 20:29:22,678 [Worker-369: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 20:29:22,678 [Worker-369: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 20:29:28,262 [Worker-369: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 20:29:28,263 [Worker-369: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 20:29:28,263 [Worker-369: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 20:29:28,264 [Worker-369: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 21:33:08,382 [Worker-373: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 21:33:08,383 [Worker-373: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 21:33:08,384 [Worker-373: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 21:33:08,385 [Worker-373: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 21:37:02,691 [Worker-374: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 21:37:02,691 [Worker-374: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 21:37:02,693 [Worker-374: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 21:37:02,693 [Worker-374: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 21:37:30,553 [Worker-378: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 21:37:30,554 [Worker-378: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 21:37:30,554 [Worker-378: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 21:37:30,555 [Worker-378: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 21:37:44,286 [Worker-380: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 21:37:44,286 [Worker-380: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 21:37:44,287 [Worker-380: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 21:37:44,288 [Worker-380: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 21:41:29,249 [Worker-380: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 21:41:29,250 [Worker-380: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 21:41:29,251 [Worker-380: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 21:41:29,251 [Worker-380: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 22:33:07,265 [Worker-379: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 22:33:07,266 [Worker-379: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-24 22:33:07,266 [Worker-379: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-24 22:33:07,267 [Worker-379: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-25 16:43:27,934 [Worker-424: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-25 16:43:27,941 [Worker-424: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-25 16:43:27,942 [Worker-424: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-25 16:43:27,943 [Worker-424: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-25 16:44:16,388 [Worker-424: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-25 16:44:16,389 [Worker-424: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-25 16:44:16,390 [Worker-424: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-25 16:44:16,391 [Worker-424: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-25 17:49:48,531 [Worker-417: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-25 17:49:48,532 [Worker-417: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-25 17:49:48,533 [Worker-417: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-25 17:49:48,534 [Worker-417: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-25 17:49:52,190 [Worker-430: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-25 17:49:52,190 [Worker-430: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-25 17:49:52,191 [Worker-430: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-25 17:49:52,191 [Worker-430: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-25 17:50:14,854 [Worker-430: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-25 17:50:14,856 [Worker-430: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-25 17:50:14,857 [Worker-430: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-25 17:50:14,858 [Worker-430: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-25 17:50:49,517 [Worker-417: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.Jena:Selenium:0.0.1-SNAPSHOT @ /Eclipse/SDET/Selenium/pom.xml.
+2019-08-25 17:50:50,446 [Worker-417: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/testng/testng/7.0.0/testng-7.0.0.pom
+2019-08-25 17:50:50,604 [Worker-417: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/testng/testng/7.0.0/testng-7.0.0.pom
+2019-08-25 17:50:50,774 [Worker-417: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/testng/testng/7.0.0/testng-7.0.0.jar
+2019-08-25 17:50:52,826 [Worker-417: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/testng/testng/7.0.0/testng-7.0.0.jar
+2019-08-25 17:50:52,970 [Worker-417: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-25 17:50:52,971 [Worker-417: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-25 17:50:52,973 [Worker-417: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-25 17:50:52,973 [Worker-417: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-25 17:50:54,069 [Worker-431: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-25 17:50:54,069 [Worker-431: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-25 17:50:54,070 [Worker-431: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-25 17:50:54,071 [Worker-431: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-25 17:50:54,611 [Worker-432: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/testng/testng/7.0.0/testng-7.0.0-sources.jar
+2019-08-25 17:50:55,949 [Worker-432: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/testng/testng/7.0.0/testng-7.0.0-sources.jar
+2019-08-25 17:50:55,957 [Worker-432: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.testng:testng:7.0.0
+2019-08-25 17:50:56,102 [Worker-432: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-25 17:50:56,103 [Worker-432: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-25 17:50:56,103 [Worker-432: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-25 17:50:56,104 [Worker-432: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-25 17:51:34,966 [Worker-433: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-25 17:51:34,967 [Worker-433: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-25 17:51:34,967 [Worker-433: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-25 17:51:34,968 [Worker-433: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-25 17:51:40,884 [Worker-432: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-25 17:51:40,884 [Worker-432: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-25 17:51:40,885 [Worker-432: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-25 17:51:40,885 [Worker-432: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-25 17:51:45,860 [Worker-431: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-25 17:51:45,861 [Worker-431: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-25 17:51:45,862 [Worker-431: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-25 17:51:45,862 [Worker-431: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-25 17:51:54,224 [Worker-429: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-25 17:51:54,225 [Worker-429: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-25 17:51:54,226 [Worker-429: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-25 17:51:54,226 [Worker-429: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-25 17:59:30,742 [Worker-417: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-25 17:59:30,743 [Worker-417: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-25 17:59:30,745 [Worker-417: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-25 17:59:30,745 [Worker-417: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-25 18:00:13,771 [Worker-438: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-25 18:00:13,772 [Worker-438: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-25 18:00:13,772 [Worker-438: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-25 18:00:13,773 [Worker-438: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-25 18:00:46,298 [Worker-417: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-25 18:00:46,299 [Worker-417: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-25 18:00:46,299 [Worker-417: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-25 18:00:46,300 [Worker-417: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-25 18:05:44,085 [Worker-438: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-25 18:05:44,086 [Worker-438: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-25 18:05:44,086 [Worker-438: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-25 18:05:44,087 [Worker-438: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-25 18:06:16,221 [Worker-417: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-25 18:06:16,222 [Worker-417: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-25 18:06:16,222 [Worker-417: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-25 18:06:16,223 [Worker-417: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-25 18:07:30,515 [Worker-439: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-25 18:07:30,515 [Worker-439: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-25 18:07:30,516 [Worker-439: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-25 18:07:30,517 [Worker-439: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-25 18:07:43,313 [Worker-439: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-25 18:07:43,313 [Worker-439: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-25 18:07:43,314 [Worker-439: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-25 18:07:43,315 [Worker-439: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-25 18:07:52,086 [Worker-438: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-25 18:07:52,087 [Worker-438: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-25 18:07:52,087 [Worker-438: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-25 18:07:52,088 [Worker-438: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-25 18:08:04,246 [Worker-441: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-25 18:08:04,247 [Worker-441: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-25 18:08:04,248 [Worker-441: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-25 18:08:04,249 [Worker-441: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-25 18:15:21,979 [Worker-417: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-25 18:15:21,980 [Worker-417: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-25 18:15:21,980 [Worker-417: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-25 18:15:21,981 [Worker-417: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

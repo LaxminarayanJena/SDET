@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11292" started-at="2019-08-25T19:31:11 IST" finished-at="2019-08-25T19:31:22 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11292" started-at="2019-08-25T19:31:11 IST" finished-at="2019-08-25T19:31:22 IST">
+      <class name="testNg.TestNGDataprovider">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:testNg.TestNGDataprovider@6321e813]" name="setUpClass" is-config="true" duration-ms="9" started-at="2019-08-25T19:31:11 IST" finished-at="2019-08-25T19:31:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:testNg.TestNGDataprovider@6321e813]" name="setUpMethod" is-config="true" duration-ms="2298" started-at="2019-08-25T19:31:11 IST" finished-at="2019-08-25T19:31:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="calcTest(java.lang.String, java.lang.String)[pri:0, instance:testNg.TestNGDataprovider@6321e813]" name="calcTest" duration-ms="1583" started-at="2019-08-25T19:31:13 IST" data-provider="calc-data" finished-at="2019-08-25T19:31:15 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2 + 3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calcTest -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:testNg.TestNGDataprovider@6321e813]" name="tearDownMethod" is-config="true" duration-ms="79" started-at="2019-08-25T19:31:15 IST" finished-at="2019-08-25T19:31:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:testNg.TestNGDataprovider@6321e813]" name="setUpMethod" is-config="true" duration-ms="2707" started-at="2019-08-25T19:31:15 IST" finished-at="2019-08-25T19:31:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="calcTest(java.lang.String, java.lang.String)[pri:0, instance:testNg.TestNGDataprovider@6321e813]" name="calcTest" duration-ms="1266" started-at="2019-08-25T19:31:18 IST" data-provider="calc-data" finished-at="2019-08-25T19:31:19 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sqrt 16]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calcTest -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:testNg.TestNGDataprovider@6321e813]" name="tearDownMethod" is-config="true" duration-ms="77" started-at="2019-08-25T19:31:19 IST" finished-at="2019-08-25T19:31:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:testNg.TestNGDataprovider@6321e813]" name="setUpMethod" is-config="true" duration-ms="1743" started-at="2019-08-25T19:31:19 IST" finished-at="2019-08-25T19:31:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="calcTest(java.lang.String, java.lang.String)[pri:0, instance:testNg.TestNGDataprovider@6321e813]" name="calcTest" duration-ms="1418" started-at="2019-08-25T19:31:21 IST" data-provider="calc-data" finished-at="2019-08-25T19:31:22 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3 - 2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calcTest -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:testNg.TestNGDataprovider@6321e813]" name="tearDownMethod" is-config="true" duration-ms="76" started-at="2019-08-25T19:31:22 IST" finished-at="2019-08-25T19:31:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:testNg.TestNGDataprovider@6321e813]" name="tearDownClass" is-config="true" duration-ms="0" started-at="2019-08-25T19:31:22 IST" finished-at="2019-08-25T19:31:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- testNg.TestNGDataprovider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
