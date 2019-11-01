@@ -1,0 +1,4 @@
+2019-11-02 01:45:31,751 DEBUG t.HomePageTest [main] before search
+2019-11-02 01:45:31,759 DEBUG p.HomePage [main] Inside the page object model
+2019-11-02 02:21:52,060 DEBUG t.HomePageTest [main] before search
+2019-11-02 02:21:52,062 DEBUG p.HomePage [main] Inside the page object model
