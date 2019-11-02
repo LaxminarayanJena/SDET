@@ -1,0 +1,12 @@
+
+ 
+<suite name="Suite1" verbose="1" >
+  <test name="SmokeSuite" >
+    <!-- <packages>
+      <package name="com.shaanstraining.ui.pages" />
+   </packages> -->
+    <classes>
+       <class name="test.HomePageTest" />
+    </classes>
+ </test>
+</suite>
