@@ -1,17 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="3526" started-at="2019-11-01T20:51:52Z" finished-at="2019-11-01T20:51:55Z">
+  <suite name="Default suite" duration-ms="52367" started-at="2019-11-02T03:20:08Z" finished-at="2019-11-02T03:21:01Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="3526" started-at="2019-11-01T20:51:52Z" finished-at="2019-11-01T20:51:55Z">
-      <class name="test.HomePageTest">
-        <test-method status="PASS" signature="search()[pri:0, instance:test.HomePageTest@22295ec4]" name="search" duration-ms="3516" started-at="2019-11-02T02:21:52Z" finished-at="2019-11-02T02:21:55Z">
+    <test name="Default test" duration-ms="52367" started-at="2019-11-02T03:20:08Z" finished-at="2019-11-02T03:21:01Z">
+      <class name="test.GMailPageTest">
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:test.GMailPageTest@1fa268de]" name="setUpMethod" is-config="true" duration-ms="1451" started-at="2019-11-02T08:50:08Z" finished-at="2019-11-02T08:50:10Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- search -->
-      </class> <!-- test.HomePageTest -->
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:test.GMailPageTest@1fa268de]" name="loginTest" duration-ms="18319" started-at="2019-11-02T08:50:10Z" data-provider="dp2" finished-at="2019-11-02T08:50:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumtesterbangalore]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123selenium]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.GMailPageTest@1fa268de]" name="tearDown" is-config="true" duration-ms="118" started-at="2019-11-02T08:50:28Z" finished-at="2019-11-02T08:50:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:test.GMailPageTest@1fa268de]" name="setUpMethod" is-config="true" duration-ms="884" started-at="2019-11-02T08:50:28Z" finished-at="2019-11-02T08:50:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:test.GMailPageTest@1fa268de]" name="loginTest" duration-ms="14620" started-at="2019-11-02T08:50:29Z" data-provider="dp2" finished-at="2019-11-02T08:50:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumtesterbangalore]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123selenium]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.GMailPageTest@1fa268de]" name="tearDown" is-config="true" duration-ms="113" started-at="2019-11-02T08:50:44Z" finished-at="2019-11-02T08:50:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:test.GMailPageTest@1fa268de]" name="setUpMethod" is-config="true" duration-ms="866" started-at="2019-11-02T08:50:44Z" finished-at="2019-11-02T08:50:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:test.GMailPageTest@1fa268de]" name="loginTest" duration-ms="15828" started-at="2019-11-02T08:50:45Z" data-provider="dp2" finished-at="2019-11-02T08:51:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumtesterbangalore]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123selenium]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.GMailPageTest@1fa268de]" name="tearDown" is-config="true" duration-ms="120" started-at="2019-11-02T08:51:01Z" finished-at="2019-11-02T08:51:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.GMailPageTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

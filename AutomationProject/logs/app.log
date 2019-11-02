@@ -2,3 +2,15 @@
 2019-11-02 01:45:31,759 DEBUG p.HomePage [main] Inside the page object model
 2019-11-02 02:21:52,060 DEBUG t.HomePageTest [main] before search
 2019-11-02 02:21:52,062 DEBUG p.HomePage [main] Inside the page object model
+2019-11-02 08:32:16,541 INFO t.GMailPageTest [main] gmailPageTest: username: shaanstraining	 password: mytmppsswrd
+2019-11-02 08:40:27,064 INFO t.GMailPageTest [main] gmailPageTest: username: seleniumtesterbangalore	 password: 123selenium
+2019-11-02 08:44:31,480 INFO t.GMailPageTest [main] gmailPageTest: username: seleniumtesterbangalore	 password: 123selenium
+2019-11-02 08:45:22,077 INFO t.GMailPageTest [main] gmailPageTest: username: seleniumtesterbangalore	 password: 123selenium
+2019-11-02 08:45:32,418 INFO t.GMailPageTest [main] gmailPageTest: username: seleniumtesterbangalore	 password: 123selenium
+2019-11-02 08:45:48,190 INFO t.GMailPageTest [main] gmailPageTest: username: seleniumtesterbangalore	 password: 123selenium
+2019-11-02 08:48:28,002 INFO t.GMailPageTest [main] gmailPageTest: username: seleniumtesterbangalore	 password: 123selenium
+2019-11-02 08:48:46,260 INFO t.GMailPageTest [main] gmailPageTest: username: seleniumtesterbangalore	 password: 123selenium
+2019-11-02 08:49:03,063 INFO t.GMailPageTest [main] gmailPageTest: username: seleniumtesterbangalore	 password: 123selenium
+2019-11-02 08:50:10,343 INFO t.GMailPageTest [main] gmailPageTest: username: seleniumtesterbangalore	 password: 123selenium
+2019-11-02 08:50:29,658 INFO t.GMailPageTest [main] gmailPageTest: username: seleniumtesterbangalore	 password: 123selenium
+2019-11-02 08:50:45,258 INFO t.GMailPageTest [main] gmailPageTest: username: seleniumtesterbangalore	 password: 123selenium

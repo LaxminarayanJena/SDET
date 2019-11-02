@@ -3,11 +3,13 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)" preserve-order="true">
     <classes>
-      <class name="apis.TranslateAPITest">
+      <class name="test.GMailPageTest">
         <methods>
-          <include name="traslateTestNegative"/>
+          <include name="loginTest" invocation-numbers="0 1 2"/>
+          <include name="setUpMethod"/>
+          <include name="tearDown"/>
         </methods>
-      </class> <!-- apis.TranslateAPITest -->
+      </class> <!-- test.GMailPageTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
